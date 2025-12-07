@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════
+  SOCIAL MEDIA DASHBOARD - INSTALLATION GUIDE
+═══════════════════════════════════════════════════
+
+METHOD 1: EASIEST (Double-Click Files)
+─────────────────────────────────────────
+
+1. install.bat file ko DOUBLE-CLICK karein
+   → Dependencies install ho jayengi
+
+2. start.bat file ko DOUBLE-CLICK karein  
+   → Dashboard start ho jayega
+   → Browser mein http://localhost:5173 open hoga
+
+─────────────────────────────────────────
+
+METHOD 2: Command Prompt (CMD) Use Karein
+─────────────────────────────────────────
+
+Step 1: Command Prompt Open Karein
+   → Windows Key + R press karein
+   → Type: cmd
+   → Enter press karein
+
+Step 2: Project Folder Mein Jao
+   → Copy aur paste karein:
+   cd "C:\Users\devhi\OneDrive\Desktop\DiabetesProject\social media dashboard"
+
+Step 3: Dependencies Install
+   → Type: npm install
+   → Enter press karein
+   → Wait karein (5-10 minutes)
+
+Step 4: Dashboard Start
+   → Type: npm run dev
+   → Enter press karein
+   → Browser mein http://localhost:5173 par jayein
+
+─────────────────────────────────────────
+
+IMPORTANT NOTES:
+─────────────────────────────────────────
+
+✓ Node.js installed hona chahiye
+  → Check: https://nodejs.org/
+
+✓ Agar error aaye to:
+  → SETUP_INSTRUCTIONS.md file padh lein
+
+✓ Batch files ko right-click karke 
+  "Run as administrator" se bhi try kar sakte hain
+
+═══════════════════════════════════════════════════
+

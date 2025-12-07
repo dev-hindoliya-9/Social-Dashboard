@@ -1,0 +1,146 @@
+═══════════════════════════════════════════════════════
+     FREE DEPLOYMENT - SIMPLE GUIDE (Hindi/English)
+═══════════════════════════════════════════════════════
+
+🎯 DEPLOYMENT KE BAAD:
+───────────────────────────────────────────────────────
+✅ Live URL mil jayega
+✅ Direct browser mein open hoga
+✅ Kisi bhi device se access kar sakte hain
+✅ start.bat ki zaroorat NAHI padegi
+
+───────────────────────────────────────────────────────
+
+🚀 METHOD 1: VERCEL (SABSE AASAN - RECOMMENDED) ⭐
+───────────────────────────────────────────────────────
+
+STEP 1: Build Project
+───────────────────────────────────────────────────────
+→ Command Prompt open karein
+→ Project folder mein jao:
+  cd "C:\Users\devhi\OneDrive\Desktop\DiabetesProject\social media dashboard"
+
+→ Build command run karein:
+  npm run build
+
+→ Wait karein (2-3 minutes)
+→ "dist" folder ban jayega ✅
+
+───────────────────────────────────────────────────────
+
+STEP 2: Vercel Website Se Deploy
+───────────────────────────────────────────────────────
+
+1. Browser open karein: https://vercel.com
+
+2. Sign Up karein (FREE):
+   → "Sign Up" button click karein
+   → GitHub/Google se login karein (easy)
+
+3. New Project:
+   → "Add New..." → "Project" click karein
+   → Ya directly: https://vercel.com/new
+
+4. Project Upload:
+   Option A: GitHub se (agar GitHub use karte ho)
+   Option B: Import from local folder
+   → "Browse" click karein
+   → Apna project folder select karein
+
+5. Settings:
+   → Framework: Vite (auto detect hoga)
+   → Root Directory: . (default)
+   → Build Command: npm run build (auto)
+   → Output Directory: dist (auto)
+
+6. Deploy Button:
+   → "Deploy" click karein
+   → Wait karein (2-3 minutes)
+
+7. SUCCESS! 🎉
+   → Live URL mil jayega
+   → Example: https://social-media-dashboard.vercel.app
+   → Copy kar lein aur bookmark kar lein
+
+───────────────────────────────────────────────────────
+
+🚀 METHOD 2: NETLIFY (DRAG & DROP - BAHUT AASAN)
+───────────────────────────────────────────────────────
+
+STEP 1: Build Project
+───────────────────────────────────────────────────────
+→ Command Prompt mein:
+  cd "C:\Users\devhi\OneDrive\Desktop\DiabetesProject\social media dashboard"
+  npm run build
+
+→ "dist" folder ban jayega ✅
+
+───────────────────────────────────────────────────────
+
+STEP 2: Netlify Se Deploy
+───────────────────────────────────────────────────────
+
+1. Browser open karein: https://app.netlify.com
+
+2. Sign Up karein (FREE):
+   → "Sign up" click karein
+   → GitHub/Email se sign up karein
+
+3. Drag & Drop:
+   → "Add new site" → "Deploy manually"
+   → Ya directly: https://app.netlify.com/drop
+
+4. DIST Folder Drag Karein:
+   → Windows Explorer mein "dist" folder open karein
+   → Pure folder ko drag karein Netlify website par
+   → Drop kar dein
+
+5. SUCCESS! 🎉
+   → Live URL mil jayega instantly!
+   → Example: https://random-name-123.netlify.app
+
+───────────────────────────────────────────────────────
+
+📝 IMPORTANT: PEHLE BUILD KARNA HAI
+───────────────────────────────────────────────────────
+
+Har deployment se pehle:
+1. Command Prompt open karein
+2. Project folder mein jao
+3. npm run build
+4. Wait karein
+5. Phir deploy karein
+
+───────────────────────────────────────────────────────
+
+✅ DEPLOYMENT KE BAAD:
+───────────────────────────────────────────────────────
+
+✓ Live URL mil jayega (example: your-site.vercel.app)
+✓ Kisi bhi device se open kar sakte hain
+✓ Sir ko bhej sakte hain link
+✓ Bookmark kar sakte hain
+✓ start.bat ki zaroorat NAHI
+
+───────────────────────────────────────────────────────
+
+🔗 RECOMMENDED URLS:
+───────────────────────────────────────────────────────
+
+Vercel: https://vercel.com
+Netlify: https://netlify.com
+GitHub: https://github.com (agar GitHub use karna ho)
+
+───────────────────────────────────────────────────────
+
+💡 QUICK TIPS:
+───────────────────────────────────────────────────────
+
+✓ Vercel - Sabse easy, automatic deployment
+✓ Netlify - Drag & drop, bahut simple
+✓ Dono FREE hain forever
+✓ Custom domain bhi add kar sakte hain (optional)
+
+───────────────────────────────────────────────────────
+
+

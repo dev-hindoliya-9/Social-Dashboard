@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════
+  DASHBOARD KO SIR KO KAISE DIKHAYE - SIMPLE GUIDE
+═══════════════════════════════════════════════════════
+
+METHOD 1: EASIEST WAY (2 Steps Only)
+───────────────────────────────────────────────────────
+
+STEP 1: Dependencies Install (Ek baar hi karna hai)
+   → install.bat file ko DOUBLE-CLICK karein
+   → Wait karein 5-10 minutes
+   → Installation complete ho jayegi
+
+STEP 2: Dashboard Start
+   → start.bat file ko DOUBLE-CLICK karein
+   → Browser automatically khul jayega
+   → Dashboard ready ho jayega!
+
+───────────────────────────────────────────────────────
+
+METHOD 2: Command Prompt Se (Alternative)
+───────────────────────────────────────────────────────
+
+1. Command Prompt (CMD) open karein
+2. Project folder mein jao:
+   cd "C:\Users\devhi\OneDrive\Desktop\DiabetesProject\social media dashboard"
+3. Dependencies install (pehli baar):
+   npm install
+4. Dashboard start:
+   npm run dev
+5. Browser mein: http://localhost:5173
+
+───────────────────────────────────────────────────────
+
+DEMONSTRATION KE LIYE KEY POINTS:
+───────────────────────────────────────────────────────
+
+✓ Dashboard Features:
+  → Real-time statistics (Followers, Reach, Engagement)
+  → Interactive charts (Engagement trends, Audience growth)
+  → Multiple social media platforms (5 platforms)
+  → Top performing posts
+  → Recent activity feed
+
+✓ Technologies Used:
+  → React.js (Frontend framework)
+  → Tailwind CSS (Styling)
+  → Recharts (Interactive charts)
+  → Vite (Build tool)
+
+✓ Responsive Design:
+  → Mobile, Tablet, Desktop - sab pe kaam karta hai
+  → Modern UI/UX design
+
+───────────────────────────────────────────────────────
+
+TIPS FOR PRESENTATION:
+───────────────────────────────────────────────────────
+
+1. Pehle se dashboard ready rakhein (start.bat run karke)
+2. Browser mein dashboard already open rakhein
+3. Sabhi sections dikhayein:
+   - Stats cards
+   - Charts (interactive hain - hover karein)
+   - Social platforms
+   - Top posts
+   - Activity feed
+4. Mobile view bhi dikhayein (browser resize karke)
+
+───────────────────────────────────────────────────────
+
+IF DASHBOARD ALREADY RUNNING HAI:
+───────────────────────────────────────────────────────
+
+✓ start.bat file double-click karein
+✓ Browser mein http://localhost:5173 open karein
+✓ Done! Dashboard ready hai
+
+───────────────────────────────────────────────────────
+
+
