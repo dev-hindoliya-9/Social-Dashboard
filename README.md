@@ -1,5 +1,3 @@
-# Social Media Dashboard
-
 A modern, responsive social media dashboard built with React.js and Tailwind CSS. This comprehensive dashboard provides real-time analytics, engagement metrics, and insights across multiple social media platforms.
 
 ## Features
@@ -151,5 +149,6 @@ Contributions, issues, and feature requests are welcome!
 ## Author
 
 Built with ❤️ using React and Tailwind CSS
+
 
 
